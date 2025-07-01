@@ -16,3 +16,6 @@ a. The FD_laplace code is used
 5. Solve the system of equations with: Psol = A\b
 
 6. Replace the removed area with the newly calculated values, for all color channels
+
+<img src="[image.jpg](https://github.com/user-attachments/assets/af14164c-e550-4b68-a69a-2e54b1ce9d5d)" width="600">    <img src="[image.jpg]([https://github.com/user-attachments/assets/af14164c-e550-4b68-a69a-2e54b1ce9d5d](https://github.com/user-attachments/assets/e388e24c-f7b2-49b6-8c58-e06a42a39fa5))" width="600">
+
